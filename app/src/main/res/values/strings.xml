@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">demo</string>
+    
+    <!-- AmapScreen strings -->
+    <string name="amap_broadcast_verification">高德广播验证</string>
+    <string name="navigate_home">导航回家</string>
+    <string name="navigate_company">导航去公司</string>
+    <string name="navigate_to">导航去</string>
+    <string name="received_broadcast_data">接收到的广播数据</string>
+    <string name="no_broadcast_data">暂无广播数据</string>
+    <string name="world_window">世界之窗</string>
 </resources>
